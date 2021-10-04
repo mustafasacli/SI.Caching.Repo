@@ -1,0 +1,6 @@
+D:\Depo\Git_Projects\SI.Caching.Repo\SI.Caching.Soln\SI.Caching\bin\Debug\SI.Caching.dll
+D:\Depo\Git_Projects\SI.Caching.Repo\SI.Caching.Soln\SI.Caching\bin\Debug\SI.Caching.pdb
+D:\Depo\Git_Projects\SI.Caching.Repo\SI.Caching.Soln\SI.Caching\obj\Debug\SI.Caching.csproj.AssemblyReference.cache
+D:\Depo\Git_Projects\SI.Caching.Repo\SI.Caching.Soln\SI.Caching\obj\Debug\SI.Caching.csproj.CoreCompileInputs.cache
+D:\Depo\Git_Projects\SI.Caching.Repo\SI.Caching.Soln\SI.Caching\obj\Debug\SI.Caching.dll
+D:\Depo\Git_Projects\SI.Caching.Repo\SI.Caching.Soln\SI.Caching\obj\Debug\SI.Caching.pdb
